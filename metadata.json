@@ -1,0 +1,7 @@
+{
+  "name": " 物联网管理后台（详情可以版本）",
+  "description": "基于 Ant Design 风格的专业物联网后端管理系统，具有实时设备监控、管理和 AI 驱动的诊断功能。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
